@@ -1,6 +1,7 @@
-
+![LinkedIn Banner - Chris Awoke](https://github.com/user-attachments/assets/4bb9c5ad-f277-45c3-8d11-94da70f7c6b2)
 
 ## Dr Data Ninja
+
 <hr />
 
 - 👋 Hi, I’m Favour Samuel
@@ -12,3 +13,6 @@
 Dataninja001/Dataninja001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" margin-top=80px width=50px height=50px/>
+          
