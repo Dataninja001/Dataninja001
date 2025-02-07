@@ -2,7 +2,7 @@
 
 ## Dr Data Ninja
 
-<hr />
+<hr/>
 
 - 👋 Hi, I’m Favour Samuel
 - 👀 I’m passionate about health data analytics and machine learning.
